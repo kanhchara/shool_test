@@ -1,0 +1,9 @@
+{
+    "produect":[
+        {
+            "id":1001,
+            "name":"kanhchara",
+            "sex":"male"
+        }
+    ]
+}
