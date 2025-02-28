@@ -3,11 +3,13 @@
         {
             "id":1001,
             "name":"kanhchara",
-            "sex":"male"
+            "sex":"male",
+            "age":20
         },
         {
             "img":"../shool/image/Matcha .jpg",
-            "priec":200
+            "priec":200,
+            "imgs":"/shool/image/Matcha .jpg"
         }
 
     ]
